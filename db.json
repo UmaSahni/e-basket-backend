@@ -1,96 +1,96 @@
 {
-    "products": [
+    "smartphones": [
         {
-        "id": 1,
-        "title": "iPhone 9",
-        "description": "An apple mobile which is nothing like apple",
-        "price": 549,
-        "discountPercentage": 12.96,
-        "rating": 4.69,
-        "stock": 94,
-        "brand": "Apple",
-        "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/1/1.jpg",
-        "https://i.dummyjson.com/data/products/1/2.jpg",
-        "https://i.dummyjson.com/data/products/1/3.jpg",
-        "https://i.dummyjson.com/data/products/1/4.jpg",
-        "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
-        ]
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/8o4AAOSwXSBjmIPZ/l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/4gwAAOSwNGRjmIPZ/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/ih4AAOSw4YNjmIPZ/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/MPwAAOSwCChjmIPZ/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/MPwAAOSwCChjmIPZ/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/8o4AAOSwXSBjmIPZ/s-l500.jpg"
+            ]
         },
         {
-        "id": 2,
-        "title": "iPhone X",
-        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-        "price": 899,
-        "discountPercentage": 17.94,
-        "rating": 4.44,
-        "stock": 34,
-        "brand": "Apple",
-        "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-        ]
+            "id": 2,
+            "title": "iPhone X",
+            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+            "price": 899,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/cssAAOSwOC5jmIPZ/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/0rkAAOSwLrljmIPZ/s-l500.jpg",
+                "https://i.dummyjson.com/data/products/2/2.jpg",
+                "https://i.ebayimg.com/images/g/S0MAAOSw~5BjmIPZ/s-l500.jpg",
+                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+            ]
         },
         {
-        "id": 3,
-        "title": "Samsung Universe 9",
-        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-        "price": 1249,
-        "discountPercentage": 15.46,
-        "rating": 4.09,
-        "stock": 36,
-        "brand": "Samsung",
-        "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/3/1.jpg"
-        ]
+            "id": 3,
+            "title": "Samsung Universe 9",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 1249,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/Ip8AAOSwKFdjmIPZ/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/7hAAAOSw6BhjmIPZ/s-l500.jpg"
+            ]
         },
         {
-        "id": 4,
-        "title": "OPPOF19",
-        "description": "OPPO F19 is officially announced on April 2021.",
-        "price": 280,
-        "discountPercentage": 17.91,
-        "rating": 4.3,
-        "stock": 123,
-        "brand": "OPPO",
-        "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
-        ]
+            "id": 4,
+            "title": "OPPOF19",
+            "description": "OPPO F19 is officially announced on April 2021.",
+            "price": 280,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/I7cAAOSw8ipjmIPZ/s-l500.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/4/1.jpg",
+                "https://i.dummyjson.com/data/products/4/2.jpg",
+                "https://i.dummyjson.com/data/products/4/3.jpg",
+                "https://i.dummyjson.com/data/products/4/4.jpg",
+                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+            ]
         },
         {
-        "id": 5,
-        "title": "Huawei P30",
-        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-        "price": 499,
-        "discountPercentage": 10.58,
-        "rating": 4.09,
-        "stock": 32,
-        "brand": "Huawei",
-        "category": "smartphones",
-        "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-        "images": [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg"
-        ]
+            "id": 5,
+            "title": "Huawei P30",
+            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+            "price": 499,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://i.ebayimg.com/images/g/7PcAAOSwF0tjMwk0/s-l500.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/5/1.jpg",
+                "https://i.dummyjson.com/data/products/5/2.jpg",
+                "https://i.dummyjson.com/data/products/5/3.jpg"
+            ]
         }
-        ],
-    "men-watch": [
-            {
+    ],
+    "mens-watches": [
+        {
             "id": 61,
             "title": "Leather Straps Wristwatch",
             "description": "Style:Sport ,Clasp:Buckles ,Water Resistance Depth:3Bar",
@@ -100,14 +100,14 @@
             "stock": 91,
             "brand": "Naviforce",
             "category": "mens-watches",
-            "thumbnail": "https://i.dummyjson.com/data/products/61/thumbnail.jpg",
+            "thumbnail": "https://i.ebayimg.com/images/g/uXEAAOSwCFBj6mVB/s-l500.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/61/1.jpg",
-            "https://i.dummyjson.com/data/products/61/2.png",
-            "https://i.dummyjson.com/data/products/61/3.jpg"
+                "https://i.dummyjson.com/data/products/61/1.jpg",
+                "https://i.dummyjson.com/data/products/61/2.png",
+                "https://i.dummyjson.com/data/products/61/3.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 62,
             "title": "Waterproof Leather Brand Watch",
             "description": "Watch Crown With Environmental IPS Bronze Electroplating; Display system of 12 hours",
@@ -117,13 +117,13 @@
             "stock": 95,
             "brand": "SKMEI 9117",
             "category": "mens-watches",
-            "thumbnail": "https://i.dummyjson.com/data/products/62/thumbnail.jpg",
+            "thumbnail": "https://i.ebayimg.com/images/g/uXEAAOSwCFBj6mVB/s-l500.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/62/1.jpg",
-            "https://i.dummyjson.com/data/products/62/2.jpg"
+                "https://i.dummyjson.com/data/products/62/1.jpg",
+                "https://i.dummyjson.com/data/products/62/2.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 63,
             "title": "Royal Blue Premium Watch",
             "description": "Men Silver Chain Royal Blue Premium Watch Latest Analog Watch",
@@ -133,15 +133,15 @@
             "stock": 142,
             "brand": "SKMEI 9117",
             "category": "mens-watches",
-            "thumbnail": "https://i.dummyjson.com/data/products/63/thumbnail.webp",
+            "thumbnail": "https://i.ebayimg.com/images/g/HNIAAOSwC5Rj6mVb/s-l500.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/63/1.jpg",
-            "https://i.dummyjson.com/data/products/63/2.jpg",
-            "https://i.dummyjson.com/data/products/63/3.png",
-            "https://i.dummyjson.com/data/products/63/4.jpeg"
+                "https://i.dummyjson.com/data/products/63/1.jpg",
+                "https://i.dummyjson.com/data/products/63/2.jpg",
+                "https://i.dummyjson.com/data/products/63/3.png",
+                "https://i.dummyjson.com/data/products/63/4.jpeg"
             ]
-            },
-            {
+        },
+        {
             "id": 64,
             "title": "Leather Strap Skeleton Watch",
             "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
@@ -151,15 +151,15 @@
             "stock": 61,
             "brand": "Strap Skeleton",
             "category": "mens-watches",
-            "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
+            "thumbnail": "https://i.ebayimg.com/images/g/uXEAAOSwCFBj6mVB/s-l500.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/64/1.jpg",
-            "https://i.dummyjson.com/data/products/64/2.webp",
-            "https://i.dummyjson.com/data/products/64/3.jpg",
-            "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
+                "https://i.dummyjson.com/data/products/64/1.jpg",
+                "https://i.dummyjson.com/data/products/64/2.webp",
+                "https://i.dummyjson.com/data/products/64/3.jpg",
+                "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 65,
             "title": "Stainless Steel Wrist Watch",
             "description": "Stylish Watch For Man (Luxury) Classy Men's Stainless Steel Wrist Watch - Box Packed",
@@ -169,18 +169,18 @@
             "stock": 94,
             "brand": "Stainless",
             "category": "mens-watches",
-            "thumbnail": "https://i.dummyjson.com/data/products/65/thumbnail.webp",
+            "thumbnail": "https://i.ebayimg.com/images/g/oCsAAOSwgOJj6mVP/s-l500.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/65/1.jpg",
-            "https://i.dummyjson.com/data/products/65/2.webp",
-            "https://i.dummyjson.com/data/products/65/3.jpg",
-            "https://i.dummyjson.com/data/products/65/4.webp",
-            "https://i.dummyjson.com/data/products/65/thumbnail.webp"
+                "https://i.dummyjson.com/data/products/65/1.jpg",
+                "https://i.dummyjson.com/data/products/65/2.webp",
+                "https://i.dummyjson.com/data/products/65/3.jpg",
+                "https://i.dummyjson.com/data/products/65/4.webp",
+                "https://i.dummyjson.com/data/products/65/thumbnail.webp"
             ]
-            }
-        ],
+        }
+    ],
     "women-watch": [
-            {
+        {
             "id": 66,
             "title": "Steel Analog Couple Watches",
             "description": "Elegant design, Stylish ,Unique & Trendy,Comfortable wear",
@@ -192,14 +192,14 @@
             "category": "womens-watches",
             "thumbnail": "https://i.dummyjson.com/data/products/66/thumbnail.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/66/1.jpg",
-            "https://i.dummyjson.com/data/products/66/2.jpg",
-            "https://i.dummyjson.com/data/products/66/3.jpg",
-            "https://i.dummyjson.com/data/products/66/4.JPG",
-            "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
+                "https://i.dummyjson.com/data/products/66/1.jpg",
+                "https://i.dummyjson.com/data/products/66/2.jpg",
+                "https://i.dummyjson.com/data/products/66/3.jpg",
+                "https://i.dummyjson.com/data/products/66/4.JPG",
+                "https://i.dummyjson.com/data/products/66/thumbnail.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 67,
             "title": "Fashion Magnetic Wrist Watch",
             "description": "Buy this awesome  The product is originally manufactured by the company and it's a top selling product with a very reasonable",
@@ -211,14 +211,14 @@
             "category": "womens-watches",
             "thumbnail": "https://i.dummyjson.com/data/products/67/thumbnail.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/67/1.jpg",
-            "https://i.dummyjson.com/data/products/67/2.jpg",
-            "https://i.dummyjson.com/data/products/67/3.jpg",
-            "https://i.dummyjson.com/data/products/67/4.jpg",
-            "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
+                "https://i.dummyjson.com/data/products/67/1.jpg",
+                "https://i.dummyjson.com/data/products/67/2.jpg",
+                "https://i.dummyjson.com/data/products/67/3.jpg",
+                "https://i.dummyjson.com/data/products/67/4.jpg",
+                "https://i.dummyjson.com/data/products/67/thumbnail.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 68,
             "title": "Stylish Luxury Digital Watch",
             "description": "Stylish Luxury Digital Watch For Girls / Women - Led Smart Ladies Watches For Girls",
@@ -230,11 +230,11 @@
             "category": "womens-watches",
             "thumbnail": "https://i.dummyjson.com/data/products/68/thumbnail.webp",
             "images": [
-            "https://i.dummyjson.com/data/products/68/1.jpg",
-            "https://i.dummyjson.com/data/products/68/2.jpg"
+                "https://i.dummyjson.com/data/products/68/1.jpg",
+                "https://i.dummyjson.com/data/products/68/2.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 69,
             "title": "Golden Watch Pearls Bracelet Watch",
             "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
@@ -246,14 +246,14 @@
             "category": "womens-watches",
             "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/69/1.jpg",
-            "https://i.dummyjson.com/data/products/69/2.jpg",
-            "https://i.dummyjson.com/data/products/69/3.webp",
-            "https://i.dummyjson.com/data/products/69/4.jpg",
-            "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
+                "https://i.dummyjson.com/data/products/69/1.jpg",
+                "https://i.dummyjson.com/data/products/69/2.jpg",
+                "https://i.dummyjson.com/data/products/69/3.webp",
+                "https://i.dummyjson.com/data/products/69/4.jpg",
+                "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
             ]
-            },
-            {
+        },
+        {
             "id": 70,
             "title": "Stainless Steel Women",
             "description": "Fashion Skmei 1830 Shell Dial Stainless Steel Women Wrist Watch Lady Bracelet Watch Quartz Watches Ladies",
@@ -265,11 +265,962 @@
             "category": "womens-watches",
             "thumbnail": "https://i.dummyjson.com/data/products/70/thumbnail.jpg",
             "images": [
-            "https://i.dummyjson.com/data/products/70/1.jpg",
-            "https://i.dummyjson.com/data/products/70/2.jpg",
-            "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
+                "https://i.dummyjson.com/data/products/70/1.jpg",
+                "https://i.dummyjson.com/data/products/70/2.jpg",
+                "https://i.dummyjson.com/data/products/70/thumbnail.jpg"
             ]
-            }
+        }
+    ],
+    "sunglasses": [
+        {
+            "id": 81,
+            "title": "Round Silver Frame Sun Glasses",
+            "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+            "price": 19,
+            "discountPercentage": 10.1,
+            "rating": 4.94,
+            "stock": 78,
+            "brand": "Designer Sun Glasses",
+            "category": "sunglasses",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/81/1.jpg",
+                "https://i.dummyjson.com/data/products/81/2.jpg",
+                "https://i.dummyjson.com/data/products/81/3.jpg",
+                "https://i.dummyjson.com/data/products/81/4.webp",
+                "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
             ]
-    
+        },
+        {
+            "id": 82,
+            "title": "Kabir Singh Square Sunglass",
+            "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+            "price": 50,
+            "discountPercentage": 15.6,
+            "rating": 4.62,
+            "stock": 78,
+            "brand": "Designer Sun Glasses",
+            "category": "sunglasses",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/82/1.jpg",
+                "https://i.dummyjson.com/data/products/82/2.webp",
+                "https://i.dummyjson.com/data/products/82/3.jpg",
+                "https://i.dummyjson.com/data/products/82/4.jpg",
+                "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 83,
+            "title": "Wiley X Night Vision Yellow Glasses",
+            "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+            "price": 30,
+            "discountPercentage": 6.33,
+            "rating": 4.97,
+            "stock": 115,
+            "brand": "mastar watch",
+            "category": "sunglasses",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/83/1.jpg",
+                "https://i.dummyjson.com/data/products/83/2.jpg",
+                "https://i.dummyjson.com/data/products/83/3.jpg",
+                "https://i.dummyjson.com/data/products/83/4.jpg",
+                "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 84,
+            "title": "Square Sunglasses",
+            "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+            "price": 28,
+            "discountPercentage": 13.89,
+            "rating": 4.64,
+            "stock": 64,
+            "brand": "mastar watch",
+            "category": "sunglasses",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/84/1.jpg",
+                "https://i.dummyjson.com/data/products/84/2.jpg",
+                "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": 85,
+            "title": "LouisWill Men Sunglasses",
+            "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+            "price": 50,
+            "discountPercentage": 11.27,
+            "rating": 4.98,
+            "stock": 92,
+            "brand": "LouisWill",
+            "category": "sunglasses",
+            "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/85/1.jpg",
+                "https://i.dummyjson.com/data/products/85/2.jpg",
+                "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
+            ]
+        }
+    ],
+    "mens-shoes": [
+        {
+            "id": "mens-shoes1",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes2",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/pe0AAOSwgD9j87t9/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/~P0AAOSw7fVj87t8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/0c4AAOSwD7pj87t8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/TKgAAOSwzKxj87t8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/prEAAOSwK-Fj87t8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/BtwAAOSwTjBj87t8/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes3",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://images.puma.net/images/194323/01/sv01/fnd/PNA/.jpg",
+            "images": [
+                "https://images.puma.net/images/194323/01/sv03/fnd/PNA/.jpg",
+                "https://images.puma.net/images/194323/01/sv02/fnd/PNA/.jpg",
+                "https://images.puma.net/images/194323/01/bv/fnd/PNA/.jpg",
+                "https://images.puma.net/images/194323/01/sv04/fnd/PNA/.jpg",
+                "https://images.puma.net/images/194323/22/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes4",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes5",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/OaEAAOSwqMpjHqqW/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/n-QAAOSwnlBjY7oj/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/p0IAAOSwyItjHqqE/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/TQIAAOSwmcljY7op/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/xP4AAOSwpkhjY7ow/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes5",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/8lkAAOSwZUBj5n2Q/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/WmQAAOSwmQNj5n18/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/hv4AAOSwQ61j5n19/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/r2cAAOSwsSxj5n16/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "hhttps://i.ebayimg.com/images/g/v6EAAOSwHWFj5n2R/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/ZnAAAOSwPJ1j5n2S/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes6",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/HjkAAOSwEuRj7e8b/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/s2MAAOSwCFlj7e8b/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/P7MAAOSwYl5j7e8b/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/qn4AAOSwQ6lj7e8b/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/uuoAAOSwHRRj7e8b/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/KQIAAOSwMzZj7e8a/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes7",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/sQgAAOSwjn9j6uU-/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/qf4AAOSwjfVj6uU-/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/qtIAAOSwHB9j6uU-/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/KToAAOSwoQZj6uU-/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/vr8AAOSwVhpj6uU~/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/X5EAAOSw3FNj6uU-/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes8",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes8",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/images/g/IXcAAOSws3xhzCB7/s-l500.jpg",
+            "images": [
+                "https://i.ebayimg.com/images/g/QLEAAOSwM05hzCB7/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/IQYAAOSw0r1hzCB8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/51EAAOSwwbVhzCB8/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/mskAAOSwysxhzCB8/s-l500.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes9",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes10",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes11",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes12",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes13",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes14",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes15",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes16",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes17",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes18",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes19",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes20",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes21",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes22",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes23",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes24",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes25",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes26",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes27",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes28",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes29",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes30",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes31",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes32",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes33",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes34",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes35",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes36",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes37",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes38",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes39",
+            "title": "Sneakers Joggers Shoes",
+            "description": "Gender: Men , Colors: Same as DisplayedCondition: 100% Brand New",
+            "price": 40,
+            "discountPercentage": 12.57,
+            "rating": 4.38,
+            "stock": 6,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/7x0AAOSwqnJjtmQz/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/pHQAAOSwhJBjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/3Z4AAOSwb1NjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/JmwAAOSwqdxjtmQz/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/VG4AAOSwX6BjtmQz/s-l500.jpg",
+                "https://images.puma.net/images/377911/01/sv01/fnd/PNA/.jpg",
+                "https://images.puma.net/images/377911/01/sv03/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes40",
+            "title": "Loafers for men",
+            "description": "Men Shoes - Loafers for men - Rubber Shoes - Nylon Shoes - Shoes for men - Moccassion - Pure Nylon (Rubber) Expot Quality.",
+            "price": 47,
+            "discountPercentage": 10.91,
+            "rating": 4.91,
+            "stock": 20,
+            "brand": "Rubber",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/WS0AAOSwU~1j88v0/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/57/1.jpg",
+                "https://i.dummyjson.com/data/products/57/2.jpg",
+                "https://i.dummyjson.com/data/products/57/3.jpg",
+                "https://i.dummyjson.com/data/products/57/4.jpg",
+                "https://i.dummyjson.com/data/products/57/thumbnail.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes41",
+            "title": "formal offices shoes",
+            "description": "Pattern Type: Solid, Material: PU, Toe Shape: Pointed Toe ,Outsole Material: Rubber",
+            "price": 57,
+            "discountPercentage": 12,
+            "rating": 4.41,
+            "stock": 68,
+            "brand": "The Warehouse",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/~zgAAOSw5jNi-6oF/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/58/1.jpg",
+                "https://i.dummyjson.com/data/products/58/2.jpg",
+                "https://i.dummyjson.com/data/products/58/3.jpg",
+                "https://i.dummyjson.com/data/products/58/4.jpg",
+                "https://i.dummyjson.com/data/products/58/thumbnail.jpg"
+            ]
+        },
+        {
+            "id":"mens-shoes41",
+            "title": "Spring and summershoes",
+            "description": "Comfortable stretch cloth, lightweight body; ,rubber sole, anti-skid wear;",
+            "price": 20,
+            "discountPercentage": 8.71,
+            "rating": 4.33,
+            "stock": 137,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/ClUAAOSwcY9iHk5y/s-l300.webp",
+            "images": [
+                "https://i.ebayimg.com/images/g/~6wAAOSwMwhiHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/DcsAAOSw~yViHk50/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/XLoAAOSwzn5iHk5y/s-l500.jpg",
+                "https://i.ebayimg.com/images/g/W9gAAOSwtJtiHk50/s-l500.jpg",
+                "https://images.puma.net/images/376540/04/sv01/fnd/PNA/.jpg"
+            ]
+        },
+        {
+            "id": "mens-shoes42",
+            "title": "Stylish Casual Jeans Shoes",
+            "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+            "price": 58,
+            "discountPercentage": 7.55,
+            "rating": 4.55,
+            "stock": 129,
+            "brand": "Sneakers",
+            "category": "mens-shoes",
+            "thumbnail": "https://i.ebayimg.com/thumbs/images/g/rvwAAOSww75jy81w/s-l300.webp",
+            "images": [
+                "https://i.dummyjson.com/data/products/60/1.jpg",
+                "https://i.dummyjson.com/data/products/60/2.jpg",
+                "https://i.dummyjson.com/data/products/60/3.jpg",
+                "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+            ]
+        }
+        
+        
+    ]
 }
